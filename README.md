@@ -32,6 +32,7 @@ Step 1.GitHub 웹사이트의 내 저장소(Repository)로 이동합니다.
 되돌아가고 싶은 시점의 커밋 오른쪽에 있는 복사 아이콘을 눌러 7자리 문자열로 된 
 커밋 ID(예: a1b2c3d)를 복사합니다.
 
-
+asdfdsafsdafsa
+asdfdsafdsa
 
 
